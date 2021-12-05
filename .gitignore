@@ -1,8 +1,0 @@
-.phpunit.result.cache
-package-lock.json
-composer.lock
-vendor/
-.php-cs-fixer.cache
-.vscode/
-coverage/
-node_modules
